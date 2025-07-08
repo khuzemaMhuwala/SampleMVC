@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 //commited on 080725 -2
+//newdev2 comment
 
 namespace SampleMVC
 {
