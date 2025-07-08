@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 //commited on 080725 -2
 //newdev2 comment
-//newdev4 comment
+//newdev4 comment added
 namespace SampleMVC
 {
     public class Program
